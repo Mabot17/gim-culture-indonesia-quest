@@ -1,2 +1,2 @@
-# gim-culture-indonesia-quest
-Gim quest edukasi
+# gim-culture-indonesia-quiz
+Gim quest edukasi dengan python
